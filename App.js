@@ -4,9 +4,9 @@ import React from "react";
 import ReactDOM from 'react-dom/client';
 let Title = () =>{
     return (
-    
+    <a href="/">
     <img className="logo" src="https://yt3.ggpht.com/ftGrXRO2HWPyqzxRqeS3hKxYdJH0efQZqYRk6dc8aMvowzhOVMhx1K4gA6doMiCrnxxoCB3lIJg=s900-c-k-c0x00ffffff-no-rj" alt="logo"/>
-  
+    </a>
     )}
 
     const restrauList = [
